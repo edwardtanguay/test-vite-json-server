@@ -48,4 +48,4 @@ const deleteMessage = async (id) => {
 // });
 
 // delete with DELETE
-// deleteMessage(4);
+deleteMessage(3);
